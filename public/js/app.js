@@ -1,4 +1,4 @@
-const API_KEY = '468bc8bb45c1fb554734c62688c3ec26aa2185f0';
+const API_KEY = '';
 const URL = 'https://emoji-api.com/emojis';
 const contentEmojis = document.getElementById('emojis');
 const input = document.getElementById('write');
