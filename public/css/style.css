@@ -1,0 +1,19 @@
+#emojis {
+    height: 200px;
+    /* width: 15%; */
+    background-color: #00da9f;
+    overflow-y:auto;
+    overflow-x:hidden;
+}
+
+a {
+    text-decoration:none;
+}
+
+.fa-smile-beam {
+    color: #f1c40f;
+}
+
+.fa-trash-alt {
+    color: #e74c3c;
+}

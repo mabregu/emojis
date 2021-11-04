@@ -1,0 +1,28 @@
+{
+  "name": "emojis",
+  "version": "1.0.0",
+  "description": "Emojis ideal para un chat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/backbone1/emojis.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "bugs": {
+    "url": "https://gitlab.com/backbone1/emojis/issues"
+  },
+  "homepage": "https://gitlab.com/backbone1/emojis#readme"
+}
